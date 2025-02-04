@@ -1,1 +1,1 @@
-# PubMed Research Assistant Using LLM
+# PubMed Research Assistant Chatbot Using LLM
